@@ -1,8 +1,8 @@
 # Author Information
 **Name:** Atika Rahman Ounte
-**Student ID:** 12110049
-**Department of Statistics,**
-  **Begum Rokeya University,Rangpur**
+|**Student ID:** 12110049
+|**Department of Statistics,**
+  |**Begum Rokeya University,Rangpur**
 
 This project is about statistical analysis on count data that i did as one of my class assignment.Technologies that are used here are python,R and Latex.Especially i used overleaf to make it easier for myself.
 
