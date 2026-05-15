@@ -12,9 +12,8 @@ This project is about statistical analysis on count data that i did as one of my
 This repository contains the full solutions for the STAT 4104 assignment, covering Logistic, Poisson, ZIP, ZTP, and Negative Binomial regression models.
 
 ### Contents
-- `main.tex`: The complete LaTeX source code for the report.
-- `analysis.py`: Python implementations using `statsmodels`.
-- `analysis.R`: R implementations using `MASS` and `VGAM`.
+- `main.tex`: The complete LaTeX source code for the report
+and
 - `/data`: Folder containing all `.csv` and `.dta` files.
 
 ### How to Run
